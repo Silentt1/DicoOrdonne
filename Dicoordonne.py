@@ -1,4 +1,4 @@
-# -*-coding:Latin-1-*
+# Created by Silentt1
 
 class DicoOrdonne:
 
